@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Il mio browser game</title>
+    <meta charset="utf-8">
+    <meta id="viewport" name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Il mio browser game</h1>
+</header>
+
+<div id="app"><!-- Il canvas verrà aggiunto qui --></div>
+
+<footer>🄯 Anno Nome Cognome</footer>
+
+<script type="module">
+import * as me from "./js/melon.js";
+import TiledMelonPlugin from "./js/tiled-melon-plugin.js";
+import Prop from "./js/entities/prop.js";
+import Door from "./js/entities/door.js";
+import Player from "./js/entities/player.js";
+import LoadingScreen from "./js/screens/loading.js";
+import MenuScreen from "./js/screens/menu.js";
+import MapScreen from "./js/screens/map.js";
+import Consts from "./js/consts.js"
+
+function onReady() {
+    // Inizializzazione del canvas
+    if(!me.video.init(576, 320, { parent: "app", scaleTarget: "app", scaleMethod: "fit" })) {
+        alert("Il browser non supporta i canvas 😞");
+        return;
+    }
+
+    // Inizializza audio
+    me.audio.init("mp3,ogg")
+
+    // Mappe Tiled esportate con l'estensione tiled-melon
+    me.plugin.register(TiledMelonPlugin);
+
+    // Toglie la gravità
+    me.game.world.gravity.set(0, 0);
+
+    // Associa gli stati (MENU, PLAY, GAMEOVER) con una schermata
+    // https://melonjs.github.io/melonJS/functions/state.set.html
+    me.state.set(me.state.LOADING, new LoadingScreen());
+    me.state.set(me.state.MENU, new MenuScreen());
+    me.state.set(Consts.state.OVERWORLD, new MapScreen("overworld"));
+    me.state.set(Consts.state.HOUSE1, new MapScreen("house1"));
+
+    // Inserisce gli oggetti di gioco nel pool
+    // https://melonjs.github.io/melonJS/functions/pool.register.html
+    me.pool.register("Prop", Prop);
+    me.pool.register("Door", Door);
+    me.pool.register("Player", Player);
+
+    // Carica le risorse del gioco (mappe, immagini, ...) ed esegui onLoad()
+    // https://melonjs.github.io/melonJS/functions/loader.preload.html
+    me.loader.preload(Consts.resources, onLoad);
+}
+
+function onLoad() {
+    me.state.transition("fade", "#202020", 250);
+    me.state.change(me.state.MENU);
+}
+
+me.device.onReady(onReady);
+</script>
+</body>
+</html>
