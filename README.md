@@ -1,6 +1,6 @@
 # Il mio browser game
 
-Un [modello di gioco funzionante](https://ardesista.github.io/my-browser-game/) in stile RPG, sviluppato con la libreria JavaScript [MelonJS](https://melonjs.org/). È possibile personalizzarlo aggiungendo nuovi personaggi, un sistema di dialoghi, una storia, nuovi scenari, combattimento in tempo reale o a turni, elementi *puzzle* o qualsiasi cosa la fantasia ti suggerisca.
+Un [modello di gioco funzionante](https://ardesista.github.io/my-browser-game/) in stile RPG, sviluppato con la libreria JavaScript [MelonJS](https://melonjs.org/). È possibile personalizzarlo aggiungendo nuovi personaggi, un sistema di dialoghi, una storia, nuovi scenari, combattimento in tempo reale o a turni, elementi *puzzle* o qualsiasi cosa la fantasia ti suggerisca!
 
 ## Librerie in JavaScript
 
