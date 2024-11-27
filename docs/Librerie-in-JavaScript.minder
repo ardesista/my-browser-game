@@ -15,7 +15,7 @@
     <style level="10" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="8" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
   </styles>
   <images>
-    <image id="4" uri="file:///home/goatama/Download/jslogo.svg" ext=".svg"/>
+    <image id="4" uri="jslogo.svg" ext=".svg"/>
   </images>
   <nodes>
     <node id="0" posx="-52.5" posy="-106" width="221" height="272" side="left" fold="false" sequence="false" treesize="1270.3267355285238" summarized="false" layout="Manuale" group="false">
