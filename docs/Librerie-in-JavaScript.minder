@@ -1,0 +1,518 @@
+<?xml version="1.0"?>
+<minder version="1.17" parent-etag="2391330160" etag="1111431887">
+  <theme name="default" label="Chiaro" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="8" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="1" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="8" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="2" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="8" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="3" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="8" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="4" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="8" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="5" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="8" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="6" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="8" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="7" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="8" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="8" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="8" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="9" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="8" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="10" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="8" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+  </styles>
+  <images>
+    <image id="4" uri="file:///home/goatama/Download/jslogo.svg" ext=".svg"/>
+  </images>
+  <nodes>
+    <node id="0" posx="-52.5" posy="-106" width="221" height="272" side="left" fold="false" sequence="false" treesize="1270.3267355285238" summarized="false" layout="Manuale" group="false">
+      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="183" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodeimage id="4" x="0" y="0" w="528" h="600"/>
+      <nodename maxwidth="183">
+        <text data="Librerie in **JavaScript**"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="29" posx="-359.5" posy="-386.4609375" width="207" height="102" side="left" fold="false" sequence="false" treesize="326.67462772651004" color="#68b723" colorroot="false" summarized="false" layout="Manuale" sticker="services" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="127" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename maxwidth="127">
+            <text data="Installazione e uso"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="30" posx="-561.5" posy="-493.4296875" width="102" height="59" side="left" fold="false" sequence="false" treesize="101" color="#68b723" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="200">
+                <text data="**CDN**"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="31" posx="-873.80473993288592" posy="-535.13556522650993" width="208" height="101" side="left" fold="false" sequence="false" treesize="101" color="#68b723" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="207" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="207">
+                    <text data="Collegamento diretto all'interno di `&lt;script&gt;` HTML"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="32" posx="-705.5" posy="-400.4609375" width="246" height="59" side="left" fold="false" sequence="false" treesize="129" color="#68b723" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="223" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="223">
+                <text data="NPM (Node Package Manager)"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="33" posx="-950.5" posy="-435.4609375" width="145" height="59" side="left" fold="false" sequence="false" treesize="59" color="#68b723" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="`npm install`"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="34" posx="-1036.5" posy="-386.4609375" width="231" height="80" side="left" fold="false" sequence="false" treesize="80" color="#68b723" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="Gestisce dipendenze locali e globali"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="35" posx="-717.5" posy="-291.96093749999989" width="258" height="59" side="left" fold="false" sequence="false" treesize="108.00000000000011" color="#68b723" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="222" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="222">
+                <text data="**Importazione nei Progetti**"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="36" posx="-1028.5" posy="-316.4609375" width="211" height="59" side="left" fold="false" sequence="false" treesize="59" color="#68b723" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="CommonJS: `require()`"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="37" posx="-1041.5" posy="-267.46093749999989" width="224" height="59" side="left" fold="false" sequence="false" treesize="59" color="#68b723" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="**ES Modules: `import`**"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="16" posx="-285.5" posy="65.15625" width="133" height="59" side="left" fold="false" sequence="false" treesize="515.89583333333303" color="#f9c440" colorroot="false" summarized="false" layout="Manuale" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename maxwidth="200">
+            <text data="Tipi di librerie"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="17" posx="-629.5" posy="-81.84375" width="244" height="59" side="left" fold="false" sequence="false" treesize="168.08333333333337" color="#f9c440" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="207" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="207">
+                <text data="**Manipolazione del DOM**"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="18" posx="-919.5" posy="-155.92708333333337" width="190" height="102" side="left" fold="false" sequence="false" treesize="102" color="#f9c440" colorroot="false" summarized="false" layout="Manuale" sticker="document" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="**jQuery**"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="19" posx="-956.5" posy="-67.84375" width="186" height="80" side="left" fold="false" sequence="false" treesize="80" color="#f9c440" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="177" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="174.20721476510067">
+                    <text data="React (viene spesso definito *framework*)"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="20" posx="-464.5" posy="15.3984375" width="79" height="59" side="left" fold="false" sequence="false" treesize="108" color="#f9c440" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="200">
+                <text data="Utilit&#xE0;"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="21" posx="-652.5" posy="-9.1015625" width="88" height="59" side="left" fold="false" sequence="false" treesize="59" color="#f9c440" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="Lodash"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="22" posx="-697.5" posy="39.8984375" width="133" height="59" side="left" fold="false" sequence="false" treesize="59" color="#f9c440" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="Underscore.js"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="26" posx="-557.5" posy="124.65625" width="172" height="59" side="left" fold="false" sequence="false" treesize="151" color="#f9c440" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="200">
+                <text data="Visualizzazione dati"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="27" posx="-729.5" posy="100.15625" width="72" height="59" side="left" fold="false" sequence="false" treesize="59" color="#f9c440" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="D3.js"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="28" posx="-817.5" posy="149.15625000000011" width="160" height="102" side="left" fold="false" sequence="false" treesize="102" color="#f9c440" colorroot="false" summarized="false" layout="Manuale" sticker="doughnut_chart" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="Chart.js"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="23" posx="-564.5" posy="276.46874999999966" width="179" height="59" side="left" fold="false" sequence="false" treesize="108" color="#f9c440" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="200">
+                <text data="**Motori di gioco**"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="24" posx="-793.5" posy="251.96874999999966" width="129" height="59" side="left" fold="false" sequence="false" treesize="59" color="#f9c440" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="**MelonJS**"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="25" posx="-749.5" posy="300.96874999999966" width="85" height="59" side="left" fold="false" sequence="false" treesize="59" color="#f9c440" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="Phaser"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="55" posx="-330.5" posy="448.61328124999989" width="178" height="102" side="left" fold="false" sequence="false" treesize="192.32421875" color="#715344" colorroot="false" summarized="false" layout="Manuale" sticker="idea" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename maxwidth="200">
+            <text data="Evoluzioni"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="56" posx="-549.5" posy="432.83723958333314" width="119" height="59" side="left" fold="false" sequence="false" treesize="80.334635416666515" color="#715344" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="142" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="142">
+                <text data=" ES6/ESNext"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="57" posx="-818.5" posy="411.5026041666664" width="169" height="80" side="left" fold="false" sequence="false" treesize="80" color="#715344" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="180" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="180">
+                    <text data="Funzionalit&#xE0; native sempre pi&#xF9; potenti"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="60" posx="-561.5" posy="489.91796874999989" width="131" height="59" side="left" fold="false" sequence="false" treesize="59" color="#715344" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="200">
+                <text data="Micro-librerie"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="61" posx="-836.5" posy="489.91796874999989" width="175" height="59" side="left" fold="false" sequence="false" treesize="59" color="#715344" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="Specifiche e leggere"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="58" posx="-590.5" posy="544.82682291666663" width="160" height="59" side="left" fold="false" sequence="false" treesize="59" color="#715344" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="200">
+                <text data="**Frameworks**"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="59" posx="-876.5" posy="544.82682291666663" width="186" height="59" side="left" fold="false" sequence="false" treesize="59" color="#715344" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="React, Vue.js, Angular"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="38" posx="268.5" posy="-426.91666666666663" width="133" height="59" side="right" fold="false" sequence="false" treesize="389.39314177852373" color="#3689e6" colorroot="false" summarized="false" layout="Manuale" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename maxwidth="200">
+            <text data="Best Practices"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="39" posx="501.5" posy="-589.55208333333326" width="206" height="102" side="right" fold="false" sequence="false" treesize="147.93729026845676" color="#3689e6" colorroot="false" summarized="false" layout="Manuale" sticker="support" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="114" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="114">
+                <text data="Gestione delle dipendenze"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="40" posx="771.772231543624" posy="-615.41918344519036" width="180" height="80" side="right" fold="false" sequence="false" treesize="80" color="#3689e6" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="176" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="170.98364093959708">
+                    <text data="**Aggiornamenti** regolari"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="41" posx="777.03125" posy="-547.48189317673359" width="156" height="80" side="right" fold="false" sequence="false" treesize="80" color="#3689e6" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="166" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="152.63213087248323">
+                    <text data="Usare **versioni sicure**"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="42" posx="501.5" posy="-449.03124999999994" width="138" height="80" side="right" fold="false" sequence="false" treesize="142.89995805369131" color="#3689e6" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="172" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="172">
+                <text data="Minimizzare la dimensione"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="43" posx="741.82802013422815" posy="-471.93204697986573" width="141" height="80" side="right" fold="false" sequence="false" treesize="80" color="#3689e6" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="142" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="115.54110738255031">
+                    <text data="Importare solo ci&#xF2; che serve"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="44" posx="739.72546140939585" posy="-409.03208892617448" width="179" height="80" side="right" fold="false" sequence="false" treesize="80.000000000000057" color="#3689e6" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="148" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="148">
+                    <text data="Uso di strumenti come **Webpack**"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="45" posx="501.5" posy="-309.52604166666663" width="114" height="59" side="right" fold="false" sequence="false" treesize="108" color="#3689e6" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="200">
+                <text data="Prestazioni"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="46" posx="715.5" posy="-334.02604166666663" width="184" height="59" side="right" fold="false" sequence="false" treesize="59" color="#3689e6" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="Caricamento differito"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="47" posx="715.5" posy="-285.02604166666663" width="218" height="59" side="right" fold="false" sequence="false" treesize="59" color="#3689e6" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="**Minificazione** dei file"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="8" posx="268.5" posy="-66.125" width="99" height="59" side="right" fold="false" sequence="false" treesize="378.48958333333337" color="#f37329" colorroot="false" summarized="false" layout="Manuale" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename maxwidth="200">
+            <text data="Vantaggi"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="9" posx="467.5" posy="-173.95833333333337" width="212" height="59" side="right" fold="false" sequence="false" treesize="102" color="#f37329" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="200">
+                <text data="**Riutilizzo del codice**"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="10" posx="779.5" posy="-216.30729166666674" width="217" height="102" side="right" fold="false" sequence="false" treesize="102" color="#f37329" colorroot="false" summarized="false" layout="Manuale" sticker="synchronize" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="120" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="120">
+                    <text data="Funzioni pronte all'uso"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="11" posx="467.5" posy="-68.057291666666629" width="211" height="59" side="right" fold="false" sequence="false" treesize="102.55208333333337" color="#f37329" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="200">
+                <text data="**Risparmio di tempo**"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="12" posx="778.5" posy="-111.609375" width="200" height="102" side="right" fold="false" sequence="false" treesize="102" color="#f37329" colorroot="false" summarized="false" layout="Manuale" sticker="flash_on" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="101" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="101">
+                    <text data="Accelerano lo sviluppo"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="13" posx="467.5" posy="37.473958333333258" width="224" height="59" side="right" fold="false" sequence="false" treesize="169.09375" color="#f37329" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="200">
+                <text data="**Comunit&#xE0; e supporto**"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="14" posx="791.5" posy="-6.9114583333333712" width="223" height="102" side="right" fold="false" sequence="false" treesize="102" color="#f37329" colorroot="false" summarized="false" layout="Manuale" sticker="info" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="145" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="145">
+                    <text data="Ampia documentazione"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="15" posx="791.5" posy="103.18229166666663" width="139" height="59" side="right" fold="false" sequence="false" treesize="59" color="#f37329" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="Forum e guide"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="48" posx="268.5" posy="255.60416666666686" width="135" height="59" side="right" fold="false" sequence="false" treesize="193.59375000000023" color="#7a36b1" colorroot="false" summarized="false" layout="Manuale" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename maxwidth="200">
+            <text data="Esempi pratici"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="49" posx="503.5" posy="196.10416666666663" width="120" height="59" side="right" fold="false" sequence="false" treesize="60.015625" color="#7a36b1" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="200">
+                <text data="**jQuery**"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="50" posx="723.5" posy="197.11979166666663" width="203" height="59" side="right" fold="false" sequence="false" treesize="59" color="#7a36b1" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="Manipolazione del DOM"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="51" posx="503.5" posy="259.01822916666686" width="88" height="59" side="right" fold="false" sequence="false" treesize="59.72265625" color="#7a36b1" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="200">
+                <text data="Lodash"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="52" posx="691.5" posy="258.29557291666686" width="260" height="59" side="right" fold="false" sequence="false" treesize="59" color="#7a36b1" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="225" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="225">
+                    <text data="Manipolazione di array e oggetti"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="53" posx="503.5" posy="330.14713541666686" width="129" height="59" side="right" fold="false" sequence="false" treesize="80.000000000000114" color="#7a36b1" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="200">
+                <text data="**MelonJS**"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="54" posx="732.5" posy="309.69791666666686" width="209" height="80" side="right" fold="false" sequence="false" treesize="80.000000000000114" color="#7a36b1" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="Creazione di applicazioni interattive multimediali"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="1" posx="268.5" posy="491.17708333333337" width="91" height="59" side="right" fold="false" sequence="false" treesize="212.73046875" color="#c6262e" colorroot="false" summarized="false" layout="Manuale" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename maxwidth="200">
+            <text data="Libreria"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="2" posx="459.5" posy="442.17708333333337" width="153" height="59" side="right" fold="false" sequence="false" treesize="113.76171875" color="#c6262e" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="200">
+                <text data="**Definizione**"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="3" posx="712.5" posy="445.29817708333337" width="235" height="59" side="right" fold="false" sequence="false" treesize="59" color="#c6262e" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="Raccolta di funzioni e risorse"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="4" posx="712.5" posy="496.93880208333337" width="183" height="59" side="right" fold="false" sequence="false" treesize="59" color="#c6262e" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="Facilitano lo sviluppo"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="5" posx="459.5" posy="571.40755208333337" width="144" height="59" side="right" fold="false" sequence="false" treesize="108" color="#c6262e" colorroot="false" summarized="false" layout="Manuale" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename maxwidth="200">
+                <text data="Esempi comuni"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="6" posx="703.5" posy="546.90755208333337" width="83" height="59" side="right" fold="false" sequence="false" treesize="59" color="#c6262e" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="jQuery"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="7" posx="703.5" posy="595.90755208333337" width="92" height="59" side="right" fold="false" sequence="false" treesize="59" color="#c6262e" colorroot="false" summarized="false" layout="Manuale" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="13" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename maxwidth="200">
+                    <text data="Three.js"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+  <nodelinks id="0"/>
+</minder>
