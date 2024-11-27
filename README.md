@@ -13,3 +13,12 @@ Le librerie in JavaScript sono collezioni di funzioni e moduli predefiniti che s
 MelonJS offre una suite completa di strumenti per lo sviluppo di giochi 2D, permettendo agli sviluppatori di creare esperienze di gioco ricche in modo efficiente. Adattp a principianti e a sviluppatori esperti, MelonJS fornisce numerose risorse per supportare il percorso di sviluppo di applicazioni web altamente interattive e multimediali.
 
 ![Libreria MelonJS](docs/MelonJS-mindmap.svg)
+
+## Risorse
+
+- [Tiled map editor](https://www.mapeditor.org/)
+- [Documentazione di MelonJS](https://melonjs.github.io/melonJS/)
+- [MelonJS: platformer tutorial](https://melonjs.github.io/tutorial-platformer/)
+- [MelonJS: applicazioni d'esempio](https://github.com/melonjs/examples/)
+- [MelonJS: codice sorgente](https://github.com/melonjs/melonJS)
+- [Licenza MIT](https://it.wikipedia.org/wiki/Licenza_MIT)
